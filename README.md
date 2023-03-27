@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Otakoprogrammer
+- 👋 Hi, I’m @Mohamed Alaoui Mhamdi
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on project in python 
+- 🌱 I’m currently learning computer vision 
+- 💞️ I’m looking to collaborate on project in AI projects 
 - 📫 How to reach me 
 
 <!---
